@@ -1,4 +1,4 @@
-# React Nanodegree Project 2: Would you rather
+# Would you rather
 
 A web application that lets users propose questions, which other users can then answer. This app was made with react and it's learning goal was to learn Redux.
 
@@ -48,12 +48,3 @@ Once navigated to the project folder, simply run 'npm start' in the command line
 
 * [ReactJS](https://reactjs.org/) - The JavaScript framework used
 * [NPM](https://www.npmjs.com/) - Package Management
-
-## Authors
-
-* **Boyan Lamboo** - *ReactJS Nano Course Student* - [Boyan Lamboo](https://github.com/boyanlamboo)
-
-
-## Acknowledgments
-
-* [Hidde Stokvis](https://github.com/hiddestokvis) (CTO) - for his mentorship during this nano degree
